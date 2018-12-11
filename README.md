@@ -48,3 +48,6 @@ Then you can try to ping the other end of the tunnel, for example in case from a
 1. Only one client can connect to the server at a time.
 1. If you want to disable encryption you need to set the ```encryption``` flag manually in the code.
 1. When no password is provided using ```--password``` the default password is used, which is ```password```.
+
+## Credits
+I do not own this code as it was written with my project partner during a University course.
