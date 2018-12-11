@@ -1,0 +1,3 @@
+python-pytun==2.2.1
+scapy-python3==0.20
+pycrypto==2.6.1
